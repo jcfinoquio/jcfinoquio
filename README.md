@@ -4,7 +4,6 @@
 💡 Siempre aprendiendo, resolviendo problemas y explorando nuevas herramientas  
 🎯 Me encanta combinar productividad y creatividad en cada proyecto  
 
----
 
 ## 🚀 Estadísticas de GitHub
 
@@ -14,7 +13,6 @@
 
 ![Lenguajes principales](https://github-readme-stats.vercel.app/api/top-langs/?username=jcfinoquio&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
----
 
 ## 🛠 Herramientas y Tecnologías
 
@@ -28,7 +26,6 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
 </p>
 
----
 
 ## 🌐 Conecta conmigo
 
@@ -38,7 +35,6 @@
   <a href="mailto:your.email@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 </p>
 
----
 
 ## ⚡ Mis objetivos y motivación
 
@@ -47,11 +43,9 @@
 - Aprender nuevas tecnologías y aplicarlas de forma práctica  
 - Siempre abierto a colaborar y aprender de otros  
 
----
 
 ## ✨ Curiosidad
 
 > "La programación no es solo escribir código, es crear posibilidades infinitas."
 
----
 
