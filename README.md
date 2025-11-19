@@ -4,6 +4,7 @@
 💡 Siempre aprendiendo, resolviendo problemas y explorando nuevas herramientas  
 🎯 Me encanta combinar productividad y creatividad en cada proyecto  
 
+---
 
 ## 🚀 Estadísticas de GitHub
 
@@ -13,6 +14,15 @@
 
 ![Lenguajes principales](https://github-readme-stats.vercel.app/api/top-langs/?username=jcfinoquio&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
+---
+
+## ⏱ Mis estadísticas de programación (WakaTime)
+
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=jcfinoquio&range=last_7_days&theme=vue-dark)
+
+> Puedes cambiar `range` a `last_30_days` o `last_year` para ver estadísticas mensuales o anuales.
+
+---
 
 ## 🛠 Herramientas y Tecnologías
 
@@ -24,17 +34,20 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/WakaTime-01A1F0?style=for-the-badge&logo=wakatime&logoColor=white" alt="WakaTime"/>
 </p>
 
+---
 
 ## 🌐 Conecta conmigo
 
 <p>
   <a href="https://www.linkedin.com/in/jcfinoquio" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://twitter.com/yourhandle" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
-  <a href="mailto:your.email@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="mailto:juancaralcobendas@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 </p>
 
+---
 
 ## ⚡ Mis objetivos y motivación
 
@@ -43,9 +56,8 @@
 - Aprender nuevas tecnologías y aplicarlas de forma práctica  
 - Siempre abierto a colaborar y aprender de otros  
 
+---
 
 ## ✨ Curiosidad
 
 > "La programación no es solo escribir código, es crear posibilidades infinitas."
-
-
