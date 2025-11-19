@@ -16,14 +16,6 @@
 
 ---
 
-## ⏱ Mis estadísticas de programación (WakaTime)
-
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=jcfinoquio&range=last_7_days&theme=vue-dark)
-
-> Puedes cambiar `range` a `last_30_days` o `last_year` para ver estadísticas mensuales o anuales.
-
----
-
 ## 🛠 Herramientas y Tecnologías
 
 <p>
